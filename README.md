@@ -1,2 +1,2 @@
-# histotomography
+# histo-tomography
 code coming soon
